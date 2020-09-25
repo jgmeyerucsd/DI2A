@@ -1,4 +1,4 @@
-# DI2A
+# DI-SPA data analysis
 Python and R code for peptide identification and quantification from direct infusion shotgun proteome analysis.
 
 
