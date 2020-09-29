@@ -1,6 +1,8 @@
 # DI-SPA data analysis
 Python and R code for peptide identification and quantification from direct infusion shotgun proteome analysis.
 
+## Preprint
+https://doi.org/10.26434/chemrxiv.12367376.v1
 
 ## Organization
 The code is split into folders for "Python" and "R". 
