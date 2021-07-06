@@ -1,8 +1,14 @@
-# DI-SPA data analysis
+# **NOTE** this analysis pipeline was made obsolete with the completion of CsoDIAq:
+CsoDIAq preprint: https://www.biorxiv.org/content/10.1101/2021.05.12.443833v1
+CsoDIAq code: https://github.com/CCranney/CsoDIAq
+
+# Data analysis code and results from the original Direct Infusion Shotgun Proteome Analysis (DISPA) paper
 Python and R code for peptide identification and quantification from direct infusion shotgun proteome analysis.
 
-## Preprint
-https://doi.org/10.26434/chemrxiv.12367376.v1
+### Publications:
+preprint on chemrxiv: https://doi.org/10.26434/chemrxiv.12367376.v1
+Final publication in Nature Methods: https://www.nature.com/articles/s41592-020-00999-z
+
 
 ## Organization
 The code is split into folders for "Python" and "R". 
